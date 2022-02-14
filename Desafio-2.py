@@ -1,5 +1,6 @@
-# Função de validação de senha
+# Programa-resposta para a segunda questão do desafio de programação
 
+# Função de validação de senha
 Senha=input()
 def cheq_senha(senha):
 	
