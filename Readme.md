@@ -1,4 +1,4 @@
-# Desafio 2RP
+# Desafio
 
 Feito e testado Python 3.9
 
